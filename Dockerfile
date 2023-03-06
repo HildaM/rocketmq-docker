@@ -1,1 +1,1 @@
-docker pull xuchengen/rocketmq:latest
+FROM xuchengen/rocketmq:latest
